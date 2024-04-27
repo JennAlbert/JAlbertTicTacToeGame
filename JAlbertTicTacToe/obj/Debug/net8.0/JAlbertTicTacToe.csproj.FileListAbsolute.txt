@@ -1,0 +1,15 @@
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\bin\Debug\net8.0\JAlbertTicTacToe.exe
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\bin\Debug\net8.0\JAlbertTicTacToe.deps.json
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\bin\Debug\net8.0\JAlbertTicTacToe.runtimeconfig.json
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\bin\Debug\net8.0\JAlbertTicTacToe.dll
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\bin\Debug\net8.0\JAlbertTicTacToe.pdb
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\obj\Debug\net8.0\JAlbertTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\obj\Debug\net8.0\JAlbertTicTacToe.AssemblyInfoInputs.cache
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\obj\Debug\net8.0\JAlbertTicTacToe.AssemblyInfo.cs
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\obj\Debug\net8.0\JAlbertTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\obj\Debug\net8.0\JAlbertTicTacToe.sourcelink.json
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\obj\Debug\net8.0\JAlbertTicTacToe.dll
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\obj\Debug\net8.0\refint\JAlbertTicTacToe.dll
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\obj\Debug\net8.0\JAlbertTicTacToe.pdb
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\obj\Debug\net8.0\JAlbertTicTacToe.genruntimeconfig.cache
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\JAlbertTicTacToe\obj\Debug\net8.0\ref\JAlbertTicTacToe.dll
