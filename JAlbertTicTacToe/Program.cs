@@ -115,7 +115,7 @@ void printTheBoard()
         // 0 means unoccupied 1 means player 1 X and 2 means player 2 O
         if (ticTacToeBoard[i] == 0)
         {
-            Console.Write(".");
+            Console.Write("?");
         }
 
         if (ticTacToeBoard[i] == 1)

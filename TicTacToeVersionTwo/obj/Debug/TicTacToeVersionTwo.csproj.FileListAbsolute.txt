@@ -1,0 +1,10 @@
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\TicTacToeVersionTwo\bin\Debug\TicTacToeVersionTwo.exe.config
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\TicTacToeVersionTwo\bin\Debug\TicTacToeVersionTwo.exe
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\TicTacToeVersionTwo\bin\Debug\TicTacToeVersionTwo.pdb
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\TicTacToeVersionTwo\obj\Debug\TicTacToeVersionTwo.csproj.AssemblyReference.cache
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\TicTacToeVersionTwo\obj\Debug\TicTacToeVersionTwo.TicTacToeBoard.resources
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\TicTacToeVersionTwo\obj\Debug\TicTacToeVersionTwo.Properties.Resources.resources
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\TicTacToeVersionTwo\obj\Debug\TicTacToeVersionTwo.csproj.GenerateResource.cache
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\TicTacToeVersionTwo\obj\Debug\TicTacToeVersionTwo.csproj.CoreCompileInputs.cache
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\TicTacToeVersionTwo\obj\Debug\TicTacToeVersionTwo.exe
+C:\Users\jenni\OneDrive\Projects\TicTacToeProject\TicTacToeVersionTwo\obj\Debug\TicTacToeVersionTwo.pdb
